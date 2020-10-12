@@ -4,8 +4,6 @@
 
 **2020 Fall**
 
-### EQE512 MATRIX METHODS IN STRUCTURAL ANALYSIS 
-
 **Introduction:**
 
 This is a new course in Gebze Technical University- Department of Civil Engineering Graduate Program and has started on 2017 Fall term. The course aims to integrate the structural analysis topics with the computer programs for the graduate level students. 
