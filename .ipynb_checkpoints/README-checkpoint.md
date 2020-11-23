@@ -21,12 +21,12 @@ The programs covered in the course are:
 |WEEK |TOPICS |REMARK|
 |:---:|:---|:---|
 |[1](./EQE512-Week01.ipynb)|Defining the solution methods in engineering calculations using matrices and development of algorithms |Gerber beams analysis|
-|2|Introduction to Programming: PYTHON, Jupyter | Fundamental Calculation Techniques|
-|3|Development of computer algorithms |Determinate Single Degree of Freedom systems
-|4|Development of algorithms for parametric calculations and optimal solution approach  |Design of the Determinate Single Degree Freedom Systems under Design Load Combinations
-|5|Visualization of the Parametric Analysis Computations  |Iterative computation of the constant ductility in nonlinear systems
-|6|Displacement and Force Method in Structural Analysis |Calculation of the Force and Displacement Matrices
-|7|Construction of the System Stiffness Matrix  |Determinate Truss Systems
+|[2](./EQE512-Week02.ipynb)|Introduction to Programming: PYTHON, Jupyter | Fundamental Calculation Techniques|
+|[3](./EQE512-Week03.ipynb)|Development of computer algorithms |Determinate Single Degree of Freedom systems
+|[4](./EQE512-Week04.ipynb)|Development of algorithms for parametric calculations and optimal solution approach  |Design of the Determinate Single Degree Freedom Systems under Design Load Combinations
+|[5](./EQE512-Week05.ipynb)|Visualization of the Parametric Analysis Computations  |Iterative computation of the constant ductility in nonlinear systems
+|[6](./EQE512-Week06.ipynb)|Construction of the System Stiffness Matrix  |Determinate Truss Systems
+|[7](./EQE512-Week07.ipynb)|Displacement and Force Method in Structural Analysis |Calculation of the Force and Displacement Matrices
 |8|Midterm |Term Project Starts
 |9|Development of solution algorithm using displacement method |Indeterminate beams
 |10|Development of solution algorithm using force method |Indeterminate beams
